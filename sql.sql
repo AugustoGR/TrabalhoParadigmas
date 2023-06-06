@@ -1,4 +1,3 @@
-SQL: 
 create table clientesparad (
     id number(4),
     nome varchar(55),
